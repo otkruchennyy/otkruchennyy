@@ -31,6 +31,9 @@ All projects are personal initiatives, undertaken solely to deepen my programmin
 
 ### 📫 Contacts
 Telegram: @i2uker
+
 instagram: https://www.instagram.com/12uker
+
 Email: otkruchennyy@proton.me
+
 GitHub: github.com/otkruchennyy
