@@ -30,10 +30,10 @@ All projects are personal initiatives, undertaken solely to deepen my programmin
 *   **Status:** **Finalizing CLI argument parsing** (density, symbol palette). Implementing core conversion logic.
 
 ### 📫 Contacts
-Telegram: @i2uker
+Telegram: [@i2uker](https://t.me/i2uker)
 
-instagram: https://www.instagram.com/12uker
+instagram: [12uker](https://www.instagram.com/12uker)
 
-Email: otkruchennyy@proton.me
+Email: [otkruchennyy@proton.me](mailto:otkruchennyy@proton.me)
 
-GitHub: github.com/otkruchennyy
+GitHub: [otkruchennyy](https://github.com/otkruchennyy/otkruchennyy)
