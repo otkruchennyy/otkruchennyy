@@ -34,4 +34,4 @@ All projects are personal initiatives, undertaken solely to deepen my programmin
 *   **Status:** **Finalizing CLI argument parsing** (density, symbol palette). Implementing core conversion logic.
 
 ### 📫 Contacts
-Telegram: [@i2uker](https://t.me/i2uker)<br>instagram: [12uker](https://www.instagram.com/12uker)<br>Email: [otkruchennyy@proton.me](mailto:otkruchennyy@proton.me)<br>GitHub: [otkruchennyy](https://github.com/otkruchennyy/otkruchennyy)
+Telegram: [@otkruchennyy](https://t.me/otkruchennyy)<br>instagram: [12uker](https://www.instagram.com/12uker)<br>Email: [otkruchennyy@proton.me](mailto:otkruchennyy@proton.me)<br>GitHub: [otkruchennyy](https://github.com/otkruchennyy/otkruchennyy)
